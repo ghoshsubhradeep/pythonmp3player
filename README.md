@@ -1,2 +1,9 @@
-# pythonmp3player
-<h1>module pygame and tkinter must be installed in your system to run this .exe</h1>
+# .mp3 Player Using Python
+
+
+We all love to listen music.Here is a small application to play .mp3 files only.
+
+Modules used =>
+- os
+- tkinter
+- pygame
