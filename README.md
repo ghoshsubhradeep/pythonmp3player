@@ -8,3 +8,10 @@ Modules used =>
 - os
 - tkinter
 - pygame
+
+How to use =>
+- download .exe file
+- run on your local device
+- choose any folder having audio files
+- select and press play.
+- you can choose pause, unpause, stop accordingly.
