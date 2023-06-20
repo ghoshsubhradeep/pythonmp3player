@@ -1,8 +1,8 @@
 # MUSIC PLAYER USING PYTHON
 
-<div style="text-align:center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/83386252/233859309-3c9c8bb8-caea-4429-8295-d012f51b70e9.png" alt="MP3_img">
-</div>
+</p>
 
 #### We all love to listen music.Here is a small application to play audio files only.
 
